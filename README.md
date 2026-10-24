@@ -1,7 +1,9 @@
-# CrabVault Releases
+# CrabVault Releases - moved
 
-Public, signed, and notarised macOS update artifacts for CrabVault.
+CrabVault update artifacts moved before the first installer was published.
 
-Installers are published as GitHub Release assets. `appcast.xml` is the stable Sparkle update feed.
+Current location: https://github.com/sideways-living/releases/tree/main/crabvault
 
-This repository contains no CrabVault source code, signing keys, credentials, or user data.
+Current Sparkle feed: https://raw.githubusercontent.com/sideways-living/releases/main/crabvault/appcast.xml
+
+This archived repository contains no installers, source code, signing keys, credentials, or user data.
